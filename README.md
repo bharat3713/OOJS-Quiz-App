@@ -41,3 +41,13 @@ Things to Avoid
 2. Open functions coding 
 3. Everything in html file
 4. Object literal coding (plain objects with functions)
+
+
+COMMANDS
+-------------------------------------------------------------------------------------------------------------------
+
+1.npm install
+2.npm start
+
+
+
