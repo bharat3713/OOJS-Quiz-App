@@ -1,0 +1,51 @@
+.answers {
+  min-height: 100px;
+  padding: 20px;
+}
+#QuesDiv {
+  font-size: 23px;
+  color: indigo;
+  padding: 20px;
+}
+#progressBar {
+  font-size: 16px;
+  color: indigo;
+  padding: 20px;
+  margin: 10px 0;
+  font-weight: bold;
+}
+#submit {
+  opacity: 0;
+}
+button[disabled] {
+  opacity: 0.5;
+}
+
+select {
+  padding: 10px;
+  margin: 10px;
+}
+button {
+  border: none;
+  background: indigo;
+  color: white;
+  text-decoration: none;
+  padding: 10px 30px;
+  margin: 10px;
+}
+#root {
+  padding: 0 20px;
+}
+#score {
+  font-size: 34px;
+  color: indigo;
+  text-align: center;
+}
+#AnsDiv {
+  padding: 30px;
+  line-height: 30px;
+  height: 127px;
+}
+input[type="radio"] {
+  margin-right: 20px;
+}
